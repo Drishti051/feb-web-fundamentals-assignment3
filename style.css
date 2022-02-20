@@ -1,0 +1,30 @@
+p{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:green ;
+}
+.music{
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    text-align: center;
+}
+.amaze{
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    
+}
+body{
+    background-color: aqua;
+}
+.class{
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    
+
+}
